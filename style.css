@@ -7,5 +7,21 @@ body {
 .header_area{
 
 	background-color: white !important;
+	
 
+}
+
+.navbar-light .navbar-nav .nav-item {
+
+	font-size: 15px;
+	margin:  20px;
+
+}
+
+.active a{
+  color: RGB(102, 166, 191) !important;
+}
+
+.navbar-light .navbar-nav > li > a:hover, .navbar-light .navbar-nav > li > a:focus {
+    color: RGB(102, 166, 191) !important;
 }
